@@ -1,0 +1,5 @@
+Id,ProductName,Price,IsActive,Category,Rating
+1,Iphone 14,40000,True,Telefon,4.5
+2,Iphone 15,50000,True,Telefon,4.6
+3,Iphone 16,60000,False,Telefon,4.2
+4,Iphone 17,70000,True,Telefon,4.8

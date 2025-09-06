@@ -1,0 +1,8 @@
+id,productname,price,isactive,category,rating
+1,iphone 14,40000,false,telefon,4.5
+2,iphone 15,50000,false,telefon,4.4
+3,iphone 16,60000,true,telefon,4.3
+4,iphone 17,70000,true,telefon,4.6
+5,iphone 18,80000,true,telefon,4.7
+6,macbook air,90000,true,bilgisayar,4.8
+7,macbook pro,100000,true,bilgisayar,4.9
