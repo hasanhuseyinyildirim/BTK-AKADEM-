@@ -33,7 +33,7 @@ print()
 tree=DecisionTreeClassifier()
 
 tree_param_grid={"max_depth":[3,5,7],
-                 "max_leaf_nodes":[None,5,10,20,30,50] }
+                "max_leaf_nodes":[None,5,10,20,30,50] }
 
 tree_grid_search=GridSearchCV(tree,tree_param_grid)
 tree_grid_search.fit(X_train,y_train)
